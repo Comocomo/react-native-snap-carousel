@@ -6,5 +6,5 @@
   "projectName":"react-native-snap-crousel",
   "projectVer":"1.0.0",
   "devDep": true,
-  "ignoreNpmLsErrors": true
+//  "ignoreNpmLsErrors": true
 }
